@@ -328,10 +328,4 @@ public record UploadDto(MultipartFile file, String name_file) {
 7. **Adicionar documentação com Swagger/OpenAPI**
 8. **Configurar monitoramento e métricas**
 
-## 📞 Suporte
-
-Para dúvidas ou problemas, entre em contato através dos canais disponíveis no projeto.
-
----
-
-**Desenvolvido com ❤️ usando Spring Boot**
+**Desenvolvido por Gabriel Souza Silva**
